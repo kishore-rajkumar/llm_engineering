@@ -1,0 +1,3 @@
+"Sl.","Time Slot","Revised TOD Tariff"
+"1","22:00 to 09:00 (Normal Hours)","Normal Energy Charges"
+"2","09:00 to 17:00 hours (Solar Hours)","80% of Normal Energy Charges"

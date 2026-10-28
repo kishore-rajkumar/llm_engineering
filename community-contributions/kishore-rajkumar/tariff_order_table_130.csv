@@ -1,0 +1,7 @@
+"Sl.","FY 2026-27","Amount"
+"A","Overall Software Cost","20.94"
+"B","Mobile and Web Application","0.40"
+"C","Training, ATS and FMS","3.65"
+"D=A+B+C","Total Financial Involvement (Ex-work Price)","24.99"
+"E=D*18%","Add: GST @ 18%","4.50"
+"F=D+E","Grand Total (rounded-off)","29.49"

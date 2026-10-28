@@ -1,0 +1,7 @@
+"Sl. No.","Particulars","Amount"
+"A","Opening Balance of CWIP","7654.81"
+"B","Fresh CAPEX during the year","2140.70"
+"C","Investment capitalised out of opening CWIP","219.08"
+"D","Investment capitalised out of fresh investment",""
+"","Total Capitalisation during the year (C+D)","219.08"
+"","Closing Balance of CWIP (A + B - C - D)","9576.44"

@@ -1,0 +1,65 @@
+"Sr. 
+No.","Category of 
+consumers","Average 
+Billing 
+Rate (Rs./ 
+kWh)","Average 
+Cost of 
+Supply (Rs./ 
+kWh)","Ratio of 
+ABR to 
+ACOS (%)","Cross-subsidy 
+provided 
+/(received) (%)"
+"","LT Category","","","",""
+"1.","Jeevan Dhara","7.96","9.06","88%","(-)12%"
+"2.","Domestic  A-  above  0.5 
+kW to 5 kW","7.28","9.06","80%","(-)20%"
+"3.","Domestic-B 
+above 
+5 
+kW to 30 kW","9.32","9.06","103%","(+)03%"
+"4.","Commercial 
+Load 
+above 0.5 kW to 30 kW","10.27","9.06","114%","(+)14%"
+"5.","General 
+Purpose 
+Supply","11.87","9.06","131%","(+)31%"
+"6.","Public Lighting","8.99","9.06","99%","(-)1%"
+"7.","Agriculture up to 7.5 HP","9.31","9.06","103%","(+)3%"
+"8.","Small 
+Industries  Rural 
+up to 30 kW","8.44","9.06","93%","(-)7%"
+"9.","Small Industries Urban","8.48","9.06","94%","(-)6%"
+"10","EV Charging Stations","8.72","9.06","96%","(-)4%"
+"","HT Category","","","",""
+"11","HT  Domestic  30 
+kW 
+and above","9.01","9.06","99%","(-)1%"
+"12","HT  commercial  30  kW 
+& above","10.72","9.06","118%","(+)18%"
+"13","Public Water Works","12.39","9.06","137%","(+)37%"
+"14","Bulk 
+Supply 
+- 
+Educational 
+Institutions/Charitable 
+organisations 
+involved 
+in 
+eradicating 
+hunger 
+specially for children","11.07","9.06","122%","(+)22%"
+"15.","Bulk Supply Others","10.52","9.06","116%","(+)16%"
+"16.","HT  Small  Industries  up 
+to 50 kVA","8.35","9.06","92%","(-)8%"
+"17.","HT Industries-1 50 kVA 
+to 150 kVA","11.03","9.06","122%","(+)22%"
+"18.","HT 
+Industries-II  above 
+150 kVA","9.98","9.06","110%","(+)10%"
+"19.","Tea, Coffee & Rubber","10.62","9.06","117%","(+)17%"
+"20.","Oil & Coal","10.18","9.06","112%","(+)12%"
+"21.","HT 
+Irrigation 
+Load","9.99","9.06","110%","(+)10%"
