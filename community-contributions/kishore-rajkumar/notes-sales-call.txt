@@ -1,0 +1,61 @@
+## 1. Dummy Sales Call Notes
+
+**Company:** CloudDesk Solutions  
+**Customer:** Acme Retail Pvt. Ltd.  
+**Contact Person:** Rahul Sharma, Operations Manager  
+**Call Date:** 18 November 2026  
+**Call Duration:** 25 minutes  
+**Call Type:** Sales Discovery Call  
+
+### Call Notes (Raw)
+
+- Customer currently manages customer support requests through a shared Gmail inbox and spreadsheets.
+- They have a team of 12 support agents.
+- Requests are sometimes missed or duplicated because multiple agents handle the same inbox.
+- Customer wants a centralized platform to track support tickets and monitor agent performance.
+- They are particularly interested in ticket assignment, automated email notifications, response-time tracking, and basic reporting.
+- Customer currently receives approximately 800–1,000 support requests per month.
+- They are considering moving to a dedicated support platform within the next 30–45 days.
+- Budget is approximately ₹15,000–₹20,000 per month.
+- We demonstrated the ticket management dashboard and automated assignment feature.
+- Customer liked the automated assignment and reporting features.
+- Customer asked whether historical support conversations from Gmail can be imported into the platform.
+- We agreed to share a pricing proposal for 12 agents.
+- We also agreed to confirm whether Gmail conversation history can be imported.
+- Customer expects an update by 20 November 2026.
+- No purchase decision has been made yet.
+- Customer mentioned that they may need approval from their Finance Manager before proceeding.
+
+---
+
+## 2. Company's Usual Offer
+
+**Company:** CloudDesk Solutions  
+**Product:** CloudDesk Support Platform
+
+### Standard Pricing
+
+| Plan | Monthly Price | Features |
+|---|---:|---|
+| Starter | ₹799/agent | Ticket management, shared inbox, basic reporting |
+| Professional | ₹1,299/agent | Everything in Starter + automated assignment, SLA tracking, advanced reporting |
+| Enterprise | Custom pricing | Everything in Professional + custom integrations, dedicated support |
+
+### Standard Offer Details
+
+- All plans are billed monthly.
+- Annual subscriptions receive a 10% discount.
+- Free 14-day trial available.
+- Standard onboarding assistance is included.
+- Data migration is subject to technical feasibility and may involve additional charges.
+- No setup fee for Professional and Enterprise plans.
+- Customer support is available Monday to Friday, 9 AM–6 PM IST.
+
+### Company's Communication Tone
+
+- Professional but friendly.
+- Clear, concise, and helpful.
+- Avoid aggressive sales language.
+- Focus on the customer's stated requirements.
+- Always communicate pricing and commitments accurately.
+- Never promise features or integrations without confirmation.
